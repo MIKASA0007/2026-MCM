@@ -1,51 +1,110 @@
-# 2026 MCM Problem C Solution: Data With The Stars 💃📊
+# 2026 MCM Problem C: Analysis of Voting Mechanics in "Dancing with the Stars"
 
-> **Team Number:** [你的队伍编号]
-> **Topic:** Modeling Fan Voting & Elimination Mechanics in "Dancing with the Stars"
+> **基于动态贝叶斯逆向推断的DWTS投票机制公平性与偏向性分析** > **Dynamic Bayesian Inverse Inference for Fairness & Bias Analysis in DWTS Voting Systems**
 
-## 📖 项目背景 (Project Overview)
+## 📖 项目背景 (Background)
 
-本项目是 **2026年美国大学生数学建模竞赛 (MCM)** C题 "Data With The Stars" 的解决方案代码仓库。
+本项目旨在解决 **2026 MCM (美赛) C题**，通过数学建模分析《与星共舞》(Dancing with the Stars) 历史数据，探讨评分机制对比赛结果的影响。
 
-本题的核心挑战在于：现实中的电视节目《与星共舞》(DWTS) **并不公开具体的粉丝投票数**，只公布评委打分和最终淘汰结果。我们需要建立数学模型来：
-1.  **反向推演 (Inverse Modeling):** 基于淘汰结果和评委分，重构历史上缺失的粉丝投票数据。
-2.  **机制对比 (Mechanism Analysis):** 比较“排名制 (Ranking)”与“百分比制 (Percentage)”两种计分方式的公平性与差异。
-3.  **敏感性分析 (Sensitivity Analysis):** 探索导致选手被淘汰的“危险区域 (Kill Zones)”。
+由于比赛官方仅公布评委分数（Judge Scores）和最终淘汰结果（Elimination），而**粉丝投票数据（Fan Votes）是未知的黑箱**。本项目的核心难点在于**如何在数据缺失的情况下，定量评估不同计分规则（排名制 vs 百分比制）的公平性及偏向性**。
 
-## 📂 文件结构 (File Structure)
+## 🧠 核心建模思路 (Modeling Methodology)
 
-| 文件名 | 类型 | 描述 |
-| :--- | :--- | :--- |
-| `1.py` | 核心模型 | **不确定性推断模型**。用于处理推演出的粉丝投票数据，计算投票份额的置信区间 (95% CI)、RCIW (区间宽度) 及不确定性水平。 |
-| `2-1-1.py` | 仿真模拟 | **计分机制对比引擎**。实现了 Ranking 和 Percentage 两种赛制的逻辑，计算选手的“双重排名”，并标记不同赛制下的淘汰结果差异。 |
-| `2-1-2.py` | 可视化 | **生存格局可视化**。绘制 "Kill Zones" 图表，识别“悲剧区 (High Judge, Low Fan)”和“奇迹区 (High Fan, Low Judge)”。 |
-| `final_metrics_fan_votes_v2.csv` | 数据集 | 经过预处理和初步反演的清洗数据，包含赛季、周数、评委分及估算的粉丝票数。 |
-| `2026_MCM_Problem_C.pdf` | 题目 | 原始题目描述文件。 |
+本项目采用**“动态贝叶斯逆向推断” (Dynamic Bayesian Inverse Inference)** 框架，通过蒙特卡洛模拟重构缺失的粉丝投票数据，进而对比不同赛制的影响。
 
-## 💡 建模思路 (Modeling Methodology)
+### 1. 模型架构图
 
-### 1. 粉丝投票的反向重构 (The Invisible Hand)
-由于粉丝投票数不可见，我们采用了一种**贝叶斯逆向推断**的思路（体现在数据预处理与 `1.py` 中）：
-- 假设每一周的粉丝投票服从某种分布。
-- 利用 `actual_elimination`（实际淘汰结果）作为约束条件。
-- **核心逻辑：** 如果某位选手评委分很高却被淘汰，说明其粉丝票数极低。模型通过 `Entropy`（熵）和 `Constraint Tightness` 来量化这种可能性的分布。
-- **代码实现 (`1.py`):** 计算 `est_vote_share_mean` (估计得票率均值) 及其置信区间，量化模型对每个推断结果的“不确定性 (Uncertainty Level)”。
+```mermaid
+graph TD
+    A[原始数据输入] --> B(数据清洗 ETL);
+    B --> C{核心引擎: 逆向推断};
+    C -->|输入: 评委分 + 淘汰结果| D[构建动态先验 (记忆模型)];
+    D --> E[蒙特卡洛采样 (N=3000)];
+    E --> F[逻辑过滤器 (Logic Filter)];
+    F -->|保留符合历史事实的样本| G[后验概率估计];
+    G --> H[输出: 估算的粉丝票数];
+    H --> I[双系统平行模拟];
+    I --> J[排名制 (Rank)];
+    I --> K[百分比制 (Percent)];
+    J & K --> L[偏向性差异分析];
 
-### 2. 双重赛制模拟 (Ranking vs. Percentage)
-代码 `2-1-1.py` 精确复现了题目要求的两种历史计分规则：
-- **Ranking System (排名制):** $Score = Rank_{Judge} + Rank_{Fan}$。总排名越小越好。
-- **Percentage System (百分比制):** $Score = \%_{Judge} + \%_{Fan}$。总百分比越高越好。
-- **冲突检测：** 我们比较了同一组数据在两种规则下的不同命运，找出了那些“生于排名，死于百分比”或反之的边缘案例。
+```
 
-### 3. 生存空间可视化 (The "Kill Zones")
-代码 `2-1-2.py` 通过可视化的方式揭示了比赛的残酷性。我们定义了两个关键区域：
-- **🟢 Miracle Zone (奇迹区):** 评委分很低（Rank高），但靠着极高的粉丝人气存活下来。
-- **🔴 Tragic Zone (悲剧区):** 评委分很高，但因为粉丝投票不足而惨遭淘汰。
-- 通过 `seaborn` 绘制散点图，横轴为评委不满度，纵轴为粉丝不满度，直观展示了不同赛制下的生存边界。
+### 2. 关键算法实现
 
-## 🚀 快速开始 (Getting Started)
+#### A. 缺失数据重构：蒙特卡洛逆向工程
 
-### 环境依赖
-请确保安装以下 Python 库：
+由于无法直接获取粉丝票数，我们将其视为**隐变量**。
+
+* **先验分布 (Dynamic Prior)**：假设选手的粉丝基础具有时间连续性。 周的先验均值来源于  周的后验均值（引入衰减因子  防止过度拟合）。
+* **似然函数 (Likelihood as Logic Check)**：如果在某次模拟中，生成的粉丝票数导致了与历史事实（即实际被淘汰的选手）不符的结果，则该样本被视为“不可能事件”并剔除。
+* **自适应松弛 (Adaptive Relaxation)**：对于极端数据（如“爆冷”），标准逻辑过滤器可能导致无解。模型引入了自适应松弛机制，允许在极高不确定性下放宽约束，确保算法的鲁棒性。
+
+#### B. 赛制对比：双盲测试
+
+利用重构出的完整数据集（评委分 + 估算粉丝票），我们在每一季数据上分别运行两套平行规则：
+
+1. **排名制 (Ranking System)**：。
+2. **百分比制 (Percentage System)**：。
+
+#### C. 偏向性定义 (Bias Metrics)
+
+我们通过以下指标定义“偏向性”：
+
+* **Spearman 相关系数**：计算最终排名与粉丝票排名的相关性。系数越高，说明赛制越尊重粉丝意愿。
+* **分歧点分析 (Divergence Analysis)**：专门捕捉“评委低分、粉丝高票”的偏科选手，观察他们在两种赛制下的存活率。
+
+## 📂 代码结构说明 (Code Structure)
+
+完整代码位于 `advanced_dwts_solver.py`，主要包含 `AdvancedDWTSSolver` 类，模块划分如下：
+
+| 模块 | 方法名 | 功能描述 |
+| --- | --- | --- |
+| **ETL** | `preprocess_raw_data` | 处理原始宽表数据，解析淘汰周，生成时间序列长表。 |
+| **Inference** | `run_inference` | **核心算法**。执行蒙特卡洛模拟，推算每位选手的粉丝得票率。 |
+| **Simulation** | `calculate_both_methods` | 应用两种数学规则，生成平行宇宙下的排名结果。 |
+| **Analysis** | `analyze_bias_and_contrast` | 计算相关性矩阵，输出“粉丝宠儿”保护能力的对比报告。 |
+
+## 🚀 快速开始 (Quick Start)
+
+### 1. 环境依赖
+
 ```bash
-pip install pandas numpy scipy matplotlib seaborn tqdm
+pip install pandas numpy scipy tqdm
+
+```
+
+### 2. 数据准备
+
+请确保目录下包含比赛原始数据文件 `2026_MCM_Problem_C_Data.csv`。
+
+### 3. 运行模型
+
+```bash
+python advanced_dwts_solver.py
+
+```
+
+### 4. 输出结果
+
+程序运行结束后，将在当前目录生成以下文件：
+
+* `dwts_comparison_inference.csv`: 包含推算的粉丝票数（隐变量显性化结果）。
+* `dwts_comparison_detailed_rankings.csv`: 包含双赛制下的详细排名对比。
+* `dwts_comparison_fan_bias_cases.csv`: **关键文件**，列出了所有赛制产生分歧的案例（即证明某种赛制更偏向粉丝的证据）。
+
+## 📊 结论预览 (Findings)
+
+基于模型运行结果，我们在控制台中输出如下结论：
+
+1. **相关性差异**：**排名制 (Rank System)** 的最终结果与粉丝排名的 Spearman 相关系数通常高于百分比制。
+2. **机制偏向**：当选手出现严重偏科（评委分极低但粉丝票极高）时，**排名制**提供了更强的“生存保护”。
+* *原理*：在排名制中，粉丝投票第一名（Rank 1）的权重极高，可以强力拉升评委打分的劣势；而在百分比制中，极低的评委分（如占总分3%）会严重拖累总成绩，即便粉丝票很高也难以挽回。
+
+
+
+---
+
+## 📝 License
+
+此项目代码为 2026 MCM 参赛辅助代码，遵循 MIT License。
