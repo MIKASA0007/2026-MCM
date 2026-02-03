@@ -100,7 +100,6 @@ python advanced_dwts_solver.py
 
 程序运行结束后，将在当前目录生成以下文件：
 
-* `dwts_comparison_inference.csv`: 包含推算的粉丝票数（隐变量显性化结果）。
 * `dwts_comparison_detailed_rankings.csv`: 包含双赛制下的详细排名对比。
 * `dwts_comparison_fan_bias_cases.csv`: **关键文件**，列出了所有赛制产生分歧的案例（即证明某种赛制更偏向粉丝的证据）。
 
