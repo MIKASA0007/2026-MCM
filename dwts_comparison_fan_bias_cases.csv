@@ -1,0 +1,633 @@
+Season,Week,Celebrity,Fan Rank,Judge Rank,Rank System Place,Percent System Place,Better Outcome In
+1,1,Kelly Monaco,3.0,6.0,5,6,Rank System
+1,3,Joey McIntyre,1.0,3.0,2,3,Rank System
+1,4,Joey McIntyre,2.0,4.0,2,3,Rank System
+2,1,Tia Carrere,5.0,6.0,8,6,Percent System
+2,1,George Hamilton,3.0,8.0,7,8,Rank System
+2,1,Lisa Rinna,2.0,7.0,2,7,Rank System
+2,1,Master P,1.0,10.0,6,9,Rank System
+2,2,George Hamilton,2.0,5.0,1,5,Rank System
+2,2,Lisa Rinna,3.0,7.0,6,7,Rank System
+2,2,Master P,1.0,9.0,5,8,Rank System
+2,3,George Hamilton,2.0,5.0,1,5,Rank System
+2,3,Jerry Rice,4.0,7.0,7,6,Percent System
+2,3,Master P,1.0,8.0,6,8,Rank System
+2,4,George Hamilton,1.0,6.0,3,6,Rank System
+2,4,Jerry Rice,3.0,5.0,4,5,Rank System
+2,5,George Hamilton,1.0,4.0,1,4,Rank System
+2,6,Lisa Rinna,1.0,3.0,1,3,Rank System
+2,6,Jerry Rice,2.0,4.0,3,4,Rank System
+3,1,Harry Hamlin,1.0,8.0,2,8,Rank System
+3,1,Shanna Moakler,5.0,7.0,6,7,Rank System
+3,1,Sara Evans,2.0,10.0,5,10,Rank System
+3,1,Jerry Springer,4.0,9.0,10,9,Percent System
+3,2,Harry Hamlin,1.0,7.0,2,6,Rank System
+3,2,Sara Evans,2.0,7.0,3,7,Rank System
+3,2,Jerry Springer,3.0,10.0,8,9,Rank System
+3,4,Sara Evans,2.0,8.0,6,7,Rank System
+3,4,Jerry Springer,1.0,7.0,4,5,Rank System
+3,5,Joey Lawrence,3.0,5.0,6,5,Percent System
+3,5,Sara Evans,2.0,6.0,5,6,Rank System
+3,6,Joey Lawrence,2.0,3.0,1,3,Rank System
+3,6,Jerry Springer,1.0,5.0,4,5,Rank System
+3,7,Jerry Springer,1.0,5.0,3,5,Rank System
+4,1,Clyde Drexler,1.0,9.0,5,9,Rank System
+4,1,Billy Ray Cyrus,3.0,11.0,7,11,Rank System
+4,1,Leeza Gibbons,5.0,10.0,8,10,Rank System
+4,2,John Ratzenberger,2.0,6.0,1,6,Rank System
+4,2,Clyde Drexler,1.0,11.0,8,10,Rank System
+4,2,Billy Ray Cyrus,5.0,6.0,7,8,Rank System
+4,2,Leeza Gibbons,4.0,6.0,3,7,Rank System
+4,3,Clyde Drexler,1.0,10.0,7,9,Rank System
+4,3,Laila Ali,5.0,6.0,9,7,Percent System
+4,3,Billy Ray Cyrus,3.0,6.0,3,6,Rank System
+4,4,John Ratzenberger,2.0,7.0,4,7,Rank System
+4,4,Clyde Drexler,1.0,9.0,7,8,Rank System
+4,4,Laila Ali,4.0,5.0,5,6,Rank System
+4,4,Billy Ray Cyrus,3.0,5.0,1,5,Rank System
+4,5,John Ratzenberger,1.0,6.0,2,6,Rank System
+4,5,Billy Ray Cyrus,2.0,7.0,5,7,Rank System
+4,6,Ian Ziering,2.0,4.0,2,4,Rank System
+4,6,Billy Ray Cyrus,1.0,6.0,3,5,Rank System
+4,7,Billy Ray Cyrus,2.0,6.0,5,6,Rank System
+4,8,Ian Ziering,1.0,4.0,1,4,Rank System
+4,8,Billy Ray Cyrus,2.0,5.0,4,5,Rank System
+4,9,Ian Ziering,1.0,4.0,2,1,Percent System
+5,1,Wayne Newton,2.0,10.0,7,10,Rank System
+5,2,Wayne Newton,3.0,11.0,9,10,Rank System
+5,2,Mark Cuban,2.0,10.0,8,9,Rank System
+5,3,Cameron Mathison,1.0,7.0,3,6,Rank System
+5,3,Mark Cuban,2.0,9.0,7,9,Rank System
+5,4,Mark Cuban,2.0,9.0,7,8,Rank System
+5,5,Jennie Garth,3.0,5.0,4,5,Rank System
+5,5,Marie Osmond,2.0,7.0,6,7,Rank System
+5,6,Cameron Mathison,1.0,4.0,1,4,Rank System
+5,7,Cameron Mathison,1.0,5.0,3,1,Percent System
+5,8,Jennie Garth,1.0,4.0,2,3,Rank System
+6,1,Marissa Jaret Winokur,2.0,8.0,3,8,Rank System
+6,1,Penn Jillette,4.0,10.0,7,10,Rank System
+6,1,Adam Carolla,6.0,11.0,10,11,Rank System
+6,2,Cristian de la Fuente,3.0,8.0,7,8,Rank System
+6,2,Adam Carolla,2.0,9.0,6,9,Rank System
+6,3,Marlee Matlin,4.0,6.0,4,7,Rank System
+6,3,Marissa Jaret Winokur,2.0,10.0,7,9,Rank System
+6,3,Adam Carolla,1.0,6.0,2,6,Rank System
+6,4,Marlee Matlin,3.0,5.0,4,6,Rank System
+6,4,Marissa Jaret Winokur,1.0,5.0,1,5,Rank System
+6,5,Cristian de la Fuente,2.0,5.0,3,5,Rank System
+6,6,Marlee Matlin,3.0,7.0,5,7,Rank System
+6,6,Marissa Jaret Winokur,1.0,4.0,1,4,Rank System
+6,7,Mario,3.0,4.0,3,4,Rank System
+6,9,Marissa Jaret Winokur,1.0,4.0,2,4,Rank System
+7,1,Susan Lucci,5.0,8.0,8,10,Rank System
+7,1,Maurice Greene,4.0,7.0,3,7,Rank System
+7,1,Kim Kardashian,3.0,8.0,2,8,Rank System
+7,1,Rocco DiSpirito,1.0,11.0,5,9,Rank System
+7,2,Lance Bass,5.0,7.0,9,7,Percent System
+7,2,Rocco DiSpirito,1.0,10.0,4,9,Rank System
+7,3,Susan Lucci,2.0,6.0,2,5,Rank System
+7,3,Rocco DiSpirito,1.0,8.0,3,6,Rank System
+7,4,Cloris Leachman,2.0,5.0,3,5,Rank System
+7,4,Maurice Greene,1.0,8.0,5,6,Rank System
+7,5,Cloris Leachman,2.0,7.0,5,6,Rank System
+7,5,Susan Lucci,3.0,5.0,3,5,Rank System
+7,6,Susan Lucci,2.0,4.0,2,4,Rank System
+7,6,Maurice Greene,1.0,6.0,3,6,Rank System
+7,8,Cody Linley,2.0,4.0,2,4,Rank System
+7,8,Lance Bass,1.0,3.0,1,2,Rank System
+8,1,Denise Richards,3.0,7.0,5,8,Rank System
+8,1,Lawrence Taylor,1.0,11.0,6,11,Rank System
+8,1,Belinda Carlisle,5.0,9.0,8,9,Rank System
+8,1,Holly Madison,2.0,7.0,3,7,Rank System
+8,2,David Alan Grier,6.0,11.0,11,10,Percent System
+8,2,Steve-O,3.0,13.0,10,12,Rank System
+8,2,Holly Madison,1.0,9.0,4,9,Rank System
+8,3,Lawrence Taylor,2.0,8.0,3,8,Rank System
+8,3,Steve Wozniak,4.0,12.0,11,12,Rank System
+8,3,Holly Madison,1.0,9.0,2,9,Rank System
+8,4,David Alan Grier,5.0,6.0,8,7,Percent System
+8,4,Lawrence Taylor,1.0,8.0,2,8,Rank System
+8,4,Chuck Wicks,3.0,6.0,3,6,Rank System
+8,5,Lawrence Taylor,1.0,8.0,2,7,Rank System
+8,5,Chuck Wicks,4.0,5.0,3,5,Rank System
+8,6,Lawrence Taylor,1.0,6.0,1,6,Rank System
+8,6,Ty Murray,3.0,7.0,6,7,Rank System
+8,6,Chuck Wicks,2.0,5.0,2,5,Rank System
+8,7,Lawrence Taylor,3.0,7.0,5,7,Rank System
+8,7,Ty Murray,2.0,6.0,4,5,Rank System
+8,10,Ty Murray,1.0,4.0,3,4,Rank System
+9,1,Chuck Liddell,3.0,10.0,5,10,Rank System
+9,1,Michael Irvin,1.0,14.0,7,13,Rank System
+9,1,Kathy Ireland,2.0,12.0,6,12,Rank System
+9,1,Tom DeLay,4.0,12.0,10,14,Rank System
+9,2,Melissa Joan Hart,5.0,9.0,7,11,Rank System
+9,2,Chuck Liddell,2.0,9.0,4,7,Rank System
+9,2,Louie Vito,4.0,9.0,5,10,Rank System
+9,2,Tom DeLay,3.0,13.0,11,13,Rank System
+9,3,Melissa Joan Hart,4.0,8.0,5,8,Rank System
+9,3,Chuck Liddell,2.0,10.0,4,9,Rank System
+9,3,Michael Irvin,1.0,13.0,8,12,Rank System
+9,3,Tom DeLay,3.0,12.0,10,11,Rank System
+9,4,Louie Vito,2.0,10.0,6,10,Rank System
+9,4,Michael Irvin,1.0,10.0,4,8,Rank System
+9,4,Kelly Osbourne,4.0,6.0,3,5,Rank System
+9,5,Melissa Joan Hart,3.0,7.0,4,6,Rank System
+9,5,Louie Vito,2.0,8.0,3,8,Rank System
+9,5,Michael Irvin,1.0,10.0,8,5,Percent System
+9,6,Kelly Osbourne,2.0,6.0,4,7,Rank System
+9,7,Mark Dacascos,3.0,7.0,6,7,Rank System
+9,7,Michael Irvin,1.0,6.0,2,5,Rank System
+9,8,Kelly Osbourne,1.0,3.0,1,2,Rank System
+10,1,Kate Gosselin,1.0,9.0,5,9,Rank System
+10,2,Aiden Turner,5.0,8.0,9,7,Percent System
+10,2,Buzz Aldrin,4.0,11.0,10,11,Rank System
+10,2,Chad Ochocinco,2.0,9.0,4,8,Rank System
+10,2,Kate Gosselin,1.0,10.0,3,9,Rank System
+10,2,Jake Pavelka,3.0,6.0,1,6,Rank System
+10,3,Chad Ochocinco,2.0,7.0,3,7,Rank System
+10,3,Kate Gosselin,1.0,9.0,5,9,Rank System
+10,4,Kate Gosselin,1.0,9.0,6,8,Rank System
+10,4,Jake Pavelka,2.0,6.0,2,5,Rank System
+10,5,Niecy Nash,3.0,6.0,4,7,Rank System
+10,5,Chad Ochocinco,1.0,6.0,2,6,Rank System
+10,6,Pamela Anderson,3.0,4.0,3,4,Rank System
+10,7,Erin Andrews,3.0,4.0,4,3,Percent System
+10,8,Chad Ochocinco,1.0,4.0,1,4,Rank System
+10,9,Chad Ochocinco,1.0,4.0,2,4,Rank System
+11,1,Florence Henderson,3.0,7.0,3,8,Rank System
+11,1,Margaret Cho,1.0,10.0,4,10,Rank System
+11,1,Michael Bolton,5.0,9.0,10,9,Percent System
+11,1,The Situation,4.0,10.0,9,11,Rank System
+11,1,Bristol Palin,2.0,7.0,2,7,Rank System
+11,2,Florence Henderson,2.0,8.0,4,8,Rank System
+11,2,Margaret Cho,1.0,9.0,3,9,Rank System
+11,2,The Situation,4.0,9.0,9,10,Rank System
+11,3,Florence Henderson,1.0,7.0,1,7,Rank System
+11,3,The Situation,3.0,7.0,5,8,Rank System
+11,3,Bristol Palin,2.0,9.0,8,9,Rank System
+11,4,Florence Henderson,1.0,6.0,1,6,Rank System
+11,4,Bristol Palin,2.0,8.0,6,8,Rank System
+11,5,Bristol Palin,1.0,8.0,5,7,Rank System
+11,6,Kyle Massey,2.0,4.0,1,2,Rank System
+11,6,Bristol Palin,1.0,6.0,3,4,Rank System
+11,7,Kyle Massey,2.0,5.0,4,3,Percent System
+11,7,Bristol Palin,1.0,6.0,3,4,Rank System
+11,8,Kyle Massey,2.0,3.0,2,1,Percent System
+11,8,Bristol Palin,1.0,5.0,3,4,Rank System
+12,1,Petra Nemcova,2.0,7.0,4,7,Rank System
+12,1,Mike Catherwood,1.0,11.0,7,11,Rank System
+12,2,Chelsea Kane,1.0,7.0,1,7,Rank System
+12,2,Petra Nemcova,2.0,7.0,2,8,Rank System
+12,3,Sugar Ray Leonard,1.0,8.0,4,7,Rank System
+12,4,Kirstie Alley,1.0,7.0,3,7,Rank System
+12,5,Kirstie Alley,1.0,5.0,2,5,Rank System
+12,6,Kirstie Alley,1.0,4.0,2,3,Rank System
+12,6,Kendra Wilkinson,2.0,5.0,4,5,Rank System
+12,7,Kirstie Alley,1.0,5.0,3,4,Rank System
+12,9,Kirstie Alley,2.0,3.0,2,3,Rank System
+13,1,Carson Kressley,6.0,7.0,7,8,Rank System
+13,1,Chaz Bono,3.0,7.0,4,7,Rank System
+13,1,Nancy Grace,1.0,9.0,3,9,Rank System
+13,1,Rob Kardashian,5.0,9.0,9,10,Rank System
+13,2,David Arquette,1.0,9.0,3,8,Rank System
+13,2,Hope Solo,3.0,8.0,6,7,Rank System
+13,2,Carson Kressley,2.0,9.0,5,9,Rank System
+13,3,Carson Kressley,1.0,8.0,3,4,Rank System
+13,3,Chaz Bono,5.0,10.0,10,9,Percent System
+13,4,David Arquette,2.0,5.0,1,3,Rank System
+13,4,Carson Kressley,1.0,9.0,6,7,Rank System
+13,4,Chaz Bono,4.0,6.0,7,8,Rank System
+13,4,Nancy Grace,3.0,6.0,4,6,Rank System
+13,5,Chaz Bono,3.0,7.0,6,7,Rank System
+13,5,Nancy Grace,2.0,6.0,2,5,Rank System
+13,6,David Arquette,2.0,4.0,2,4,Rank System
+13,6,Hope Solo,3.0,6.0,5,6,Rank System
+13,7,Nancy Grace,1.0,6.0,3,4,Rank System
+13,8,Nancy Grace,2.0,5.0,3,5,Rank System
+13,9,Hope Solo,1.0,4.0,2,4,Rank System
+14,1,Donald Driver,1.0,8.0,4,8,Rank System
+14,1,Maria Menounos,5.0,8.0,7,9,Rank System
+14,2,Jack Wagner,1.0,8.0,3,8,Rank System
+14,2,Gavin DeGraw,4.0,8.0,6,9,Rank System
+14,2,Gladys Knight,3.0,11.0,9,11,Rank System
+14,3,Sherri Sheperd,1.0,7.0,1,6,Rank System
+14,3,Melissa Gilbert,4.0,7.0,6,10,Rank System
+14,3,Gavin DeGraw,2.0,7.0,3,7,Rank System
+14,3,Gladys Knight,3.0,7.0,5,9,Rank System
+14,4,Jaleel White,4.0,6.0,4,7,Rank System
+14,4,Melissa Gilbert,2.0,6.0,3,6,Rank System
+14,5,Jaleel White,2.0,6.0,2,6,Rank System
+14,5,Melissa Gilbert,1.0,8.0,4,8,Rank System
+14,6,Melissa Gilbert,1.0,5.0,2,5,Rank System
+14,7,Melissa Gilbert,1.0,7.0,4,6,Rank System
+14,8,Melissa Gilbert,3.0,6.0,5,4,Percent System
+15,1,Kirstie Alley,2.0,12.0,9,12,Rank System
+15,1,Joey Fatone,6.0,10.0,11,10,Percent System
+15,1,Bristol Palin,1.0,11.0,4,11,Rank System
+15,1,Melissa Rycroft,5.0,9.0,10,8,Percent System
+15,2,Kirstie Alley,2.0,11.0,7,10,Rank System
+15,2,Kelly Monaco,3.0,10.0,8,6,Percent System
+15,2,Emmitt Smith,4.0,7.0,1,8,Rank System
+15,2,Bristol Palin,1.0,12.0,6,11,Rank System
+15,3,Emmitt Smith,3.0,8.0,6,3,Percent System
+15,3,Bristol Palin,2.0,11.0,9,7,Percent System
+15,4,Kirstie Alley,1.0,9.0,5,8,Rank System
+15,4,Apolo Anton Ohno,3.0,7.0,6,5,Percent System
+15,5,Emmitt Smith,2.0,6.0,5,1,Percent System
+15,6,Gilles Marini,4.0,5.0,4,2,Percent System
+15,6,Emmitt Smith,3.0,8.0,8,6,Percent System
+15,7,Gilles Marini,2.0,5.0,1,5,Rank System
+15,7,Emmitt Smith,3.0,4.0,2,4,Rank System
+15,8,Kirstie Alley,1.0,7.0,4,5,Rank System
+15,8,Emmitt Smith,3.0,4.0,3,1,Percent System
+16,1,Victor Ortiz,6.0,8.0,8,9,Rank System
+16,1,Andy Dick,2.0,11.0,7,11,Rank System
+16,1,Wynonna Judd,1.0,8.0,4,8,Rank System
+16,2,Dorothy Hamill,6.0,12.0,11,12,Rank System
+16,2,Victor Ortiz,1.0,8.0,3,8,Rank System
+16,2,Wynonna Judd,4.0,8.0,7,9,Rank System
+16,3,Ingo Rademacher,2.0,6.0,2,6,Rank System
+16,3,D. L. Hughley,3.0,10.0,9,10,Rank System
+16,3,Andy Dick,1.0,9.0,3,9,Rank System
+16,3,Lisa Vanderpump,5.0,6.0,6,7,Rank System
+16,4,Victor Ortiz,3.0,9.0,8,9,Rank System
+16,4,D. L. Hughley,5.0,6.0,6,7,Rank System
+16,4,Andy Dick,4.0,6.0,5,6,Rank System
+16,4,Sean Lowe,1.0,8.0,4,8,Rank System
+16,5,Ingo Rademacher,1.0,6.0,1,6,Rank System
+16,5,Victor Ortiz,3.0,6.0,3,7,Rank System
+16,5,Sean Lowe,2.0,5.0,2,5,Rank System
+16,6,Andy Dick,3.0,7.0,5,7,Rank System
+16,7,Ingo Rademacher,2.0,5.0,3,5,Rank System
+16,7,Sean Lowe,1.0,6.0,2,6,Rank System
+16,8,Ingo Rademacher,1.0,5.0,1,5,Rank System
+16,8,Jacoby Jones,2.0,4.0,2,4,Rank System
+16,9,Ingo Rademacher,1.0,5.0,3,5,Rank System
+16,10,Jacoby Jones,1.0,4.0,3,4,Rank System
+17,1,Valerie Harper,3.0,8.0,3,8,Rank System
+17,1,Keyshawn Johnson,2.0,11.0,6,11,Rank System
+17,1,Bill Nye,5.0,12.0,11,12,Rank System
+17,2,Valerie Harper,3.0,10.0,8,10,Rank System
+17,2,Brant Daugherty,4.0,7.0,6,7,Rank System
+17,2,"Nicole ""Snooki"" Polizzi",1.0,9.0,3,9,Rank System
+17,2,Bill Nye,2.0,12.0,10,11,Rank System
+17,3,Valerie Harper,1.0,10.0,5,10,Rank System
+17,3,Leah Remini,4.0,6.0,4,7,Rank System
+17,3,Amber Riley,3.0,6.0,3,6,Rank System
+17,4,Brant Daugherty,3.0,8.0,7,8,Rank System
+17,5,Elizabeth Berkley Lauren,2.0,6.0,3,2,Percent System
+17,5,Amber Riley,1.0,6.0,2,1,Percent System
+17,5,Bill Engvall,4.0,8.0,8,7,Percent System
+17,8,Elizabeth Berkley Lauren,1.0,6.0,4,2,Percent System
+17,8,Bill Engvall,3.0,7.0,5,7,Rank System
+17,9,Amber Riley,1.0,5.0,2,1,Percent System
+17,11,Jack Osbourne,2.0,3.0,2,3,Rank System
+18,1,Sean Avery,3.0,10.0,5,10,Rank System
+18,1,Diana Nyad,5.0,11.0,9,11,Rank System
+18,1,Drew Carey,1.0,7.0,3,7,Rank System
+18,2,Candace Cameron Bure,3.0,7.0,4,9,Rank System
+18,2,Drew Carey,1.0,7.0,1,7,Rank System
+18,2,Cody Simpson,4.0,6.0,5,6,Rank System
+18,2,NeNe Leakes,2.0,7.0,2,8,Rank System
+18,3,Cody Simpson,2.0,6.0,2,4,Rank System
+18,3,NeNe Leakes,1.0,8.0,5,8,Rank System
+18,4,Candace Cameron Bure,3.0,9.0,8,9,Rank System
+18,4,Cody Simpson,2.0,8.0,5,7,Rank System
+18,4,NeNe Leakes,1.0,6.0,1,5,Rank System
+18,5,Candace Cameron Bure,2.0,7.0,3,7,Rank System
+18,5,Meryl Davis,4.0,5.0,4,6,Rank System
+18,5,NeNe Leakes,1.0,5.0,1,4,Rank System
+18,6,Candace Cameron Bure,2.0,7.0,5,7,Rank System
+18,6,NeNe Leakes,1.0,6.0,3,5,Rank System
+18,7,Danica McKellar,3.0,4.0,4,5,Rank System
+18,7,Charlie White,2.0,5.0,3,4,Rank System
+18,8,Candace Cameron Bure,1.0,4.0,2,3,Rank System
+18,10,Candace Cameron Bure,2.0,4.0,3,4,Rank System
+19,1,Antonio Sabato Jr.,2.0,10.0,5,11,Rank System
+19,1,Tommy Chong,4.0,9.0,6,9,Rank System
+19,1,Michael Waltrip,1.0,10.0,3,10,Rank System
+19,2,Tommy Chong,4.0,8.0,5,9,Rank System
+19,2,Betsey Johnson,2.0,8.0,3,8,Rank System
+19,2,Michael Waltrip,1.0,12.0,7,11,Rank System
+19,3,Antonio Sabato Jr.,1.0,8.0,3,7,Rank System
+19,3,Betsey Johnson,3.0,8.0,6,9,Rank System
+19,3,Michael Waltrip,2.0,10.0,9,10,Rank System
+19,4,Antonio Sabato Jr.,2.0,6.0,1,6,Rank System
+19,4,Tommy Chong,4.0,8.0,8,7,Percent System
+19,4,Michael Waltrip,1.0,9.0,4,8,Rank System
+19,5,Antonio Sabato Jr.,3.0,6.0,3,6,Rank System
+19,5,Jonathan Bennett,1.0,7.0,1,7,Rank System
+19,5,Tommy Chong,4.0,8.0,9,8,Percent System
+19,5,Michael Waltrip,2.0,9.0,7,9,Rank System
+19,6,Antonio Sabato Jr.,1.0,8.0,1,7,Rank System
+19,6,Lea Thompson,4.0,5.0,3,6,Rank System
+19,6,Michael Waltrip,2.0,7.0,2,4,Rank System
+19,7,Tommy Chong,2.0,6.0,3,5,Rank System
+19,7,Michael Waltrip,1.0,8.0,5,7,Rank System
+19,8,Tommy Chong,1.0,6.0,3,6,Rank System
+19,8,Sadie Robertson,2.0,4.0,2,4,Rank System
+19,9,Tommy Chong,1.0,6.0,4,6,Rank System
+19,10,Tommy Chong,1.0,5.0,2,5,Rank System
+20,1,Charlotte McKinney,4.0,11.0,7,11,Rank System
+20,2,Charlotte McKinney,3.0,11.0,11,10,Percent System
+20,2,Noah Galloway,2.0,10.0,5,6,Rank System
+20,2,Chris Soules,1.0,12.0,8,11,Rank System
+20,3,Suzanne Somers,1.0,8.0,1,8,Rank System
+20,3,Michael Sam,3.0,9.0,8,9,Rank System
+20,3,Robert Herjavec,4.0,6.0,4,6,Rank System
+20,3,Chris Soules,2.0,7.0,2,7,Rank System
+20,4,Suzanne Somers,1.0,9.0,5,8,Rank System
+20,4,Chris Soules,2.0,10.0,6,9,Rank System
+20,5,Noah Galloway,3.0,5.0,2,6,Rank System
+20,5,Patti LaBelle,2.0,7.0,4,7,Rank System
+20,5,Chris Soules,1.0,7.0,1,5,Rank System
+20,6,Robert Herjavec,3.0,8.0,7,6,Percent System
+20,6,Noah Galloway,2.0,6.0,4,2,Percent System
+20,7,Robert Herjavec,3.0,6.0,5,6,Rank System
+20,7,Chris Soules,1.0,6.0,2,5,Rank System
+20,8,Robert Herjavec,2.0,6.0,4,5,Rank System
+20,8,Noah Galloway,1.0,5.0,2,4,Rank System
+20,9,Noah Galloway,2.0,4.0,3,2,Percent System
+21,1,Chaka Khan,2.0,12.0,7,12,Rank System
+21,1,Hayes Grier,4.0,7.0,5,7,Rank System
+21,1,Kim Zolciak-Biermann,6.0,13.0,11,13,Rank System
+21,2,Gary Busey,2.0,12.0,9,11,Rank System
+21,2,Andy Grammer,4.0,8.0,6,7,Rank System
+21,2,Kim Zolciak-Biermann,1.0,9.0,2,9,Rank System
+21,3,Andy Grammer,1.0,8.0,2,8,Rank System
+21,3,Paula Deen,2.0,10.0,6,10,Rank System
+21,4,Alexa PenaVega,4.0,8.0,9,8,Percent System
+21,4,Alek Skarlatos,3.0,6.0,4,6,Rank System
+21,4,Andy Grammer,1.0,7.0,1,7,Rank System
+21,4,Paula Deen,2.0,9.0,7,9,Rank System
+21,5,Alek Skarlatos,3.0,7.0,4,7,Rank System
+21,5,Paula Deen,2.0,9.0,6,9,Rank System
+21,6,Alexa PenaVega,1.0,7.0,2,7,Rank System
+21,6,Carlos PenaVega,3.0,5.0,3,5,Rank System
+21,6,Alek Skarlatos,2.0,7.0,5,8,Rank System
+21,6,Hayes Grier,4.0,6.0,7,6,Percent System
+21,7,Alek Skarlatos,4.0,8.0,8,7,Percent System
+21,7,Tamar Braxton,3.0,6.0,6,3,Percent System
+21,7,Nick Carter,2.0,6.0,3,2,Percent System
+21,8,Alexa PenaVega,1.0,5.0,3,2,Percent System
+21,9,Alek Skarlatos,2.0,5.0,3,4,Rank System
+21,9,Tamar Braxton,3.0,6.0,6,5,Percent System
+21,10,Nick Carter,1.0,4.0,2,4,Rank System
+21,11,Alek Skarlatos,2.0,4.0,4,3,Percent System
+22,1,Jodie Sweetin,2.0,8.0,3,8,Rank System
+22,1,Doug Flutie,3.0,11.0,9,11,Rank System
+22,1,Geraldo Rivera,1.0,12.0,7,12,Rank System
+22,2,Mischa Barton,1.0,11.0,8,11,Rank System
+22,2,Kim Fields,2.0,9.0,4,9,Rank System
+22,2,Antonio Brown,3.0,9.0,9,10,Rank System
+22,3,Doug Flutie,3.0,8.0,6,8,Rank System
+22,3,Von Miller,5.0,8.0,8,10,Rank System
+22,3,Antonio Brown,4.0,8.0,7,9,Rank System
+22,3,Marla Maples,2.0,6.0,3,6,Rank System
+22,4,Kim Fields,1.0,6.0,1,6,Rank System
+22,4,Jodie Sweetin,5.0,9.0,9,8,Percent System
+22,4,Doug Flutie,3.0,10.0,8,9,Rank System
+22,4,Von Miller,2.0,6.0,2,7,Rank System
+22,5,Kim Fields,1.0,7.0,3,5,Rank System
+22,5,Doug Flutie,4.0,7.0,5,8,Rank System
+22,5,Von Miller,3.0,6.0,4,6,Rank System
+22,6,Kim Fields,1.0,6.0,2,5,Rank System
+22,6,Von Miller,3.0,6.0,6,7,Rank System
+22,7,Antonio Brown,1.0,5.0,3,4,Rank System
+23,1,Maureen McCormick,1.0,11.0,5,11,Rank System
+23,1,Amber Rose,2.0,9.0,4,9,Rank System
+23,1,Rick Perry,3.0,13.0,8,13,Rank System
+23,2,Maureen McCormick,2.0,8.0,1,8,Rank System
+23,2,Ryan Lochte,1.0,10.0,2,10,Rank System
+23,2,Amber Rose,3.0,10.0,6,11,Rank System
+23,2,Vanilla Ice,5.0,8.0,7,9,Rank System
+23,3,Ryan Lochte,1.0,8.0,1,8,Rank System
+23,3,Amber Rose,2.0,8.0,4,9,Rank System
+23,3,Babyface,5.0,8.0,7,10,Rank System
+23,3,Vanilla Ice,3.0,11.0,9,11,Rank System
+23,4,Ryan Lochte,1.0,9.0,4,8,Rank System
+23,4,Calvin Johnson Jr.,2.0,6.0,2,6,Rank System
+23,5,Maureen McCormick,3.0,6.0,5,7,Rank System
+23,5,Ryan Lochte,1.0,6.0,2,5,Rank System
+23,5,Calvin Johnson Jr.,2.0,6.0,3,6,Rank System
+23,6,Maureen McCormick,2.0,6.0,4,6,Rank System
+23,6,Ryan Lochte,1.0,7.0,3,7,Rank System
+23,8,Marilu Henner,3.0,7.0,5,6,Rank System
+23,9,Calvin Johnson Jr.,1.0,4.0,2,3,Rank System
+23,10,Jana Kramer,2.0,4.0,3,2,Percent System
+23,11,Jana Kramer,2.0,4.0,3,4,Rank System
+24,1,Charo,6.0,10.0,9,10,Rank System
+24,1,Mr. T,3.0,11.0,7,11,Rank System
+24,1,Erika Jayne,4.0,7.0,5,7,Rank System
+24,2,Charo,1.0,9.0,3,9,Rank System
+24,2,Mr. T,2.0,11.0,7,11,Rank System
+24,2,Nick Viall,4.0,9.0,8,10,Rank System
+24,3,Mr. T,1.0,9.0,3,9,Rank System
+24,3,Bonner Bolton,3.0,9.0,8,10,Rank System
+24,3,Rashad Jennings,5.0,6.0,7,6,Percent System
+24,3,Erika Jayne,4.0,7.0,6,8,Rank System
+24,3,Nick Viall,2.0,7.0,1,7,Rank System
+24,4,David Ross,4.0,7.0,6,7,Rank System
+24,4,Erika Jayne,3.0,8.0,5,9,Rank System
+24,4,Nick Viall,1.0,8.0,4,8,Rank System
+24,5,Bonner Bolton,1.0,8.0,6,7,Rank System
+24,5,Rashad Jennings,2.0,6.0,3,6,Rank System
+24,6,Bonner Bolton,1.0,6.0,1,2,Rank System
+24,6,David Ross,2.0,7.0,3,4,Rank System
+24,6,Nick Viall,3.0,8.0,8,7,Percent System
+24,8,Simone Biles,2.0,3.0,2,1,Percent System
+24,8,David Ross,1.0,4.0,1,4,Rank System
+24,9,David Ross,2.0,4.0,3,2,Percent System
+25,1,Sasha Pieterse,2.0,7.0,4,7,Rank System
+25,1,Debbie Gibson,1.0,10.0,7,10,Rank System
+25,2,Nikki Bella,2.0,9.0,4,9,Rank System
+25,2,Terrell Owens,1.0,9.0,2,8,Rank System
+25,2,Drew Scott,3.0,7.0,3,7,Rank System
+25,3,Derek Fisher,5.0,6.0,6,9,Rank System
+25,3,Nikki Bella,1.0,6.0,2,6,Rank System
+25,3,Terrell Owens,2.0,6.0,3,7,Rank System
+25,3,Nick Lachey,4.0,6.0,5,8,Rank System
+25,5,Terrell Owens,1.0,6.0,2,6,Rank System
+25,5,Nick Lachey,4.0,10.0,8,9,Rank System
+25,5,Drew Scott,3.0,6.0,3,7,Rank System
+25,6,Victoria Arlen,4.0,6.0,4,6,Rank System
+25,7,Terrell Owens,1.0,7.0,3,4,Rank System
+25,8,Victoria Arlen,1.0,5.0,1,4,Rank System
+25,9,Drew Scott,1.0,5.0,3,4,Rank System
+25,10,Drew Scott,1.0,4.0,3,4,Rank System
+26,2,Jennie Finch Daigle,2.0,6.0,4,5,Rank System
+26,3,Jennie Finch Daigle,2.0,6.0,5,6,Rank System
+26,3,Chris Mazdzer,1.0,5.0,1,4,Rank System
+27,1,Evanna Lynch,1.0,9.0,2,9,Rank System
+27,1,Nancy McKeon,2.0,8.0,3,6,Rank System
+27,1,John Schneider,4.0,9.0,8,11,Rank System
+27,1,Danelle Umstead,3.0,9.0,5,10,Rank System
+27,2,Nancy McKeon,2.0,9.0,5,9,Rank System
+27,2,John Schneider,1.0,8.0,3,8,Rank System
+27,3,John Schneider,1.0,10.0,3,9,Rank System
+27,3,Bobby Bones,3.0,8.0,4,8,Rank System
+27,4,DeMarcus Ware,2.0,7.0,2,3,Rank System
+27,4,Bobby Bones,4.0,9.0,10,8,Percent System
+27,5,John Schneider,1.0,6.0,2,3,Rank System
+27,5,Bobby Bones,4.0,8.0,8,7,Percent System
+27,5,Joe Amabile,3.0,9.0,7,9,Rank System
+27,6,John Schneider,1.0,9.0,5,8,Rank System
+27,6,DeMarcus Ware,2.0,5.0,1,3,Rank System
+27,7,Bobby Bones,1.0,6.0,3,1,Percent System
+28,1,Kate Flannery,1.0,9.0,4,9,Rank System
+28,1,Ray Lewis,6.0,9.0,8,10,Rank System
+28,1,Lamar Odom,2.0,12.0,7,12,Rank System
+28,2,Ray Lewis,4.0,10.0,9,10,Rank System
+28,2,Sailor Brinkley-Cook,1.0,8.0,2,8,Rank System
+28,2,Sean Spicer,2.0,9.0,4,9,Rank System
+28,3,Lamar Odom,1.0,10.0,5,10,Rank System
+28,3,Sean Spicer,2.0,9.0,6,9,Rank System
+28,3,Karamo Brown,5.0,8.0,7,8,Rank System
+28,4,James Van Der Beek,2.0,6.0,2,6,Rank System
+28,4,Sean Spicer,1.0,9.0,6,9,Rank System
+28,4,Karamo Brown,5.0,6.0,9,7,Percent System
+28,5,Sailor Brinkley-Cook,3.0,5.0,2,4,Rank System
+28,5,Sean Spicer,1.0,9.0,4,9,Rank System
+28,5,Karamo Brown,4.0,8.0,7,8,Rank System
+28,6,Karamo Brown,3.0,6.0,4,3,Percent System
+28,7,Sean Spicer,4.0,8.0,6,7,Rank System
+28,8,Sean Spicer,3.0,7.0,5,7,Rank System
+29,1,Chrishell Stause,1.0,13.0,7,13,Rank System
+29,1,Charles Oakley,3.0,14.0,10,14,Rank System
+29,2,Carole Baskin,1.0,12.0,6,12,Rank System
+29,2,Monica Aldama,3.0,12.0,9,13,Rank System
+29,3,Anne Heche,3.0,13.0,9,13,Rank System
+29,3,Jesse Metcalfe,4.0,9.0,7,9,Rank System
+29,3,Justina Machado,1.0,10.0,4,10,Rank System
+29,4,Jesse Metcalfe,1.0,10.0,4,10,Rank System
+29,4,Veron Davis,6.0,8.0,10,9,Percent System
+29,4,Nelly,3.0,10.0,7,12,Rank System
+29,4,Jeannie Mai,2.0,10.0,5,11,Rank System
+29,5,Veron Davis,2.0,10.0,6,10,Rank System
+29,6,Chrishell Stause,1.0,7.0,2,7,Rank System
+29,6,Nelly,3.0,7.0,5,8,Rank System
+29,6,Jeannie Mai,2.0,6.0,3,5,Rank System
+29,7,Jeannie Mai,1.0,8.0,6,5,Percent System
+29,8,Skai Jackson,3.0,7.0,6,5,Percent System
+29,8,AJ McLean,1.0,5.0,1,4,Rank System
+29,8,Nelly,2.0,8.0,5,7,Rank System
+29,9,Justina Machado,1.0,5.0,1,5,Rank System
+30,1,Matt James,7.0,9.0,6,9,Rank System
+30,1,Iman Shumpert,3.0,14.0,8,14,Rank System
+30,2,Matt James,3.0,14.0,10,14,Rank System
+30,2,"Mike ""The Miz"" Mizanin",5.0,8.0,5,8,Rank System
+30,2,Iman Shumpert,4.0,9.0,4,9,Rank System
+30,2,Cody Rigsby,7.0,10.0,11,12,Rank System
+30,2,Christine Chiu,6.0,10.0,8,11,Rank System
+30,2,Kenya Moore,1.0,10.0,2,10,Rank System
+30,3,Brian Austin Green,3.0,12.0,9,12,Rank System
+30,3,Matt James,4.0,10.0,6,8,Rank System
+30,3,Iman Shumpert,2.0,12.0,5,11,Rank System
+30,3,Cody Rigsby,1.0,14.0,8,13,Rank System
+30,4,"Mike ""The Miz"" Mizanin",5.0,7.0,6,7,Rank System
+30,4,Iman Shumpert,1.0,9.0,1,4,Rank System
+30,4,Cody Rigsby,2.0,11.0,8,10,Rank System
+30,4,Jimmie Allen,3.0,7.0,2,3,Rank System
+30,4,Kenya Moore,4.0,10.0,10,11,Rank System
+30,5,"Mike ""The Miz"" Mizanin",3.0,9.0,7,5,Percent System
+30,5,Cody Rigsby,1.0,9.0,3,1,Percent System
+30,5,Jimmie Allen,4.0,8.0,8,3,Percent System
+30,6,"Mike ""The Miz"" Mizanin",2.0,8.0,5,4,Percent System
+30,7,Iman Shumpert,2.0,6.0,3,4,Rank System
+30,8,Cody Rigsby,1.0,5.0,2,1,Percent System
+30,8,Jimmie Allen,3.0,8.0,6,7,Rank System
+30,9,Cody Rigsby,1.0,6.0,4,2,Percent System
+31,1,Joseph Baena,4.0,9.0,3,9,Rank System
+31,1,Trevor Donovan,1.0,10.0,1,10,Rank System
+31,1,Sam Champion,3.0,12.0,7,12,Rank System
+31,1,Jessie James Decker,5.0,12.0,10,13,Rank System
+31,1,Teresa Giudice,8.0,12.0,13,14,Rank System
+31,1,Vinny Guadagnino,2.0,16.0,11,15,Rank System
+31,2,Joseph Baena,1.0,13.0,6,13,Rank System
+31,2,Sam Champion,2.0,11.0,4,11,Rank System
+31,2,Jessie James Decker,4.0,12.0,11,12,Rank System
+31,2,Jordin Sparks,5.0,9.0,7,8,Rank System
+31,2,Vinny Guadagnino,3.0,9.0,3,7,Rank System
+31,3,Trevor Donovan,6.0,10.0,11,10,Percent System
+31,3,Sam Champion,2.0,12.0,6,12,Rank System
+31,3,Jessie James Decker,3.0,11.0,7,11,Rank System
+31,3,Vinny Guadagnino,1.0,14.0,9,13,Rank System
+31,4,Joseph Baena,2.0,11.0,6,10,Rank System
+31,4,Jessie James Decker,3.0,8.0,3,6,Rank System
+31,4,Vinny Guadagnino,1.0,9.0,2,9,Rank System
+31,5,Trevor Donovan,3.0,7.0,2,8,Rank System
+31,5,Jessie James Decker,2.0,7.0,1,7,Rank System
+31,5,Jordin Sparks,4.0,9.0,8,9,Rank System
+31,5,Vinny Guadagnino,1.0,12.0,7,10,Rank System
+31,6,Vinny Guadagnino,1.0,10.0,7,9,Rank System
+31,8,Trevor Donovan,2.0,5.0,3,5,Rank System
+31,8,Daniel Durant,1.0,5.0,1,4,Rank System
+31,8,Vinny Guadagnino,3.0,8.0,7,8,Rank System
+31,9,Daniel Durant,1.0,5.0,1,5,Rank System
+31,10,Wayne Brady,2.0,3.0,3,4,Rank System
+31,10,Shangela,1.0,3.0,1,2,Rank System
+32,1,Jamie Lynn Spears,1.0,9.0,1,9,Rank System
+32,1,Barry Williams,2.0,8.0,2,8,Rank System
+32,1,Alyson Hannigan,3.0,11.0,6,11,Rank System
+32,1,Tyson Beckford,6.0,12.0,12,13,Rank System
+32,1,Harry Jowsey,4.0,12.0,10,12,Rank System
+32,1,Mauricio Umansky,7.0,9.0,11,10,Percent System
+32,2,Mira Sorvino,3.0,7.0,2,7,Rank System
+32,2,Barry Williams,2.0,10.0,3,9,Rank System
+32,2,Tyson Beckford,5.0,7.0,4,8,Rank System
+32,2,Harry Jowsey,4.0,10.0,9,10,Rank System
+32,2,Mauricio Umansky,1.0,13.0,8,12,Rank System
+32,3,Barry Williams,2.0,7.0,1,7,Rank System
+32,3,Alyson Hannigan,5.0,8.0,9,10,Rank System
+32,3,Harry Jowsey,3.0,8.0,5,8,Rank System
+32,3,Mauricio Umansky,1.0,10.0,4,9,Rank System
+32,4,Mira Sorvino,4.0,6.0,4,6,Rank System
+32,4,Barry Williams,2.0,10.0,8,9,Rank System
+32,4,Harry Jowsey,3.0,6.0,1,5,Rank System
+32,4,Mauricio Umansky,1.0,9.0,3,8,Rank System
+32,5,Alyson Hannigan,4.0,9.0,9,8,Percent System
+32,5,Harry Jowsey,3.0,10.0,8,9,Rank System
+32,6,Barry Williams,3.0,7.0,7,6,Percent System
+32,6,Alyson Hannigan,2.0,8.0,6,7,Rank System
+32,6,Lele Pons,4.0,5.0,2,3,Rank System
+32,6,Harry Jowsey,1.0,9.0,5,8,Rank System
+32,7,Barry Williams,1.0,7.0,2,3,Rank System
+32,7,Alyson Hannigan,2.0,6.0,3,1,Percent System
+32,7,Harry Jowsey,3.0,8.0,7,5,Percent System
+32,8,Alyson Hannigan,1.0,4.0,1,2,Rank System
+32,8,Jason Mraz,3.0,6.0,6,5,Percent System
+32,8,Harry Jowsey,2.0,7.0,5,6,Rank System
+32,9,Alyson Hannigan,1.0,5.0,2,4,Rank System
+32,10,Alyson Hannigan,1.0,5.0,3,4,Rank System
+32,10,Jason Mraz,2.0,4.0,4,1,Percent System
+32,11,Alyson Hannigan,1.0,5.0,3,4,Rank System
+33,1,Tori Spelling,5.0,11.0,8,11,Rank System
+33,1,Reginald VelJohnson,1.0,12.0,6,12,Rank System
+33,2,Reginald VelJohnson,1.0,12.0,8,10,Rank System
+33,2,Brooks Nader,5.0,8.0,9,8,Percent System
+33,2,Jenn Tran,2.0,9.0,3,9,Rank System
+33,3,Danny Amendola,1.0,6.0,2,5,Rank System
+33,6,Danny Amendola,1.0,5.0,2,4,Rank System
+33,6,Stephen Nedoroscik,2.0,5.0,4,5,Rank System
+33,7,Dwight Howard?,3.0,6.0,5,6,Rank System
+33,8,Danny Amendola,1.0,4.0,2,1,Percent System
+33,8,Stephen Nedoroscik,2.0,5.0,4,3,Percent System
+34,1,Baron Davis,3.0,9.0,7,9,Rank System
+34,2,Danielle Fishel,1.0,10.0,4,10,Rank System
+34,2,Scott Hoying,2.0,11.0,8,11,Rank System
+34,2,Dylan Efron,6.0,9.0,11,9,Percent System
+34,3,Danielle Fishel,1.0,8.0,2,6,Rank System
+34,3,Elaine Hendrix,3.0,8.0,4,9,Rank System
+34,4,Danielle Fishel,1.0,9.0,2,5,Rank System
+34,4,Robert Irwin,4.0,8.0,8,4,Percent System
+34,4,Scott Hoying,3.0,9.0,7,9,Rank System
+34,5,Danielle Fishel,1.0,8.0,3,6,Rank System
+34,5,Andy Richter,2.0,10.0,6,10,Rank System
+34,5,Scott Hoying,3.0,6.0,4,5,Rank System
+34,6,Andy Richter,1.0,10.0,6,9,Rank System
+34,7,Danielle Fishel,2.0,6.0,3,5,Rank System
+34,7,Andy Richter,1.0,9.0,5,8,Rank System
+34,8,Elaine Hendrix,3.0,6.0,7,4,Percent System
+34,9,Elaine Hendrix,3.0,6.0,5,6,Rank System
+34,9,Alix Earle,2.0,4.0,2,3,Rank System
+34,10,Elaine Hendrix,1.0,4.0,3,2,Percent System
